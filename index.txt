@@ -1,2 +1,3 @@
 azhar here and welcome to node 
-this is the basic example to learn github
+
+To add new line and learning git branches and merging.
