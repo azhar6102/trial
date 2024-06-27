@@ -1,4 +1,0 @@
-azhar here and welcome to node 
-
-To add new line and learning git branches and merging.
-stagging changes.
